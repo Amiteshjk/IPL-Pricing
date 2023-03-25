@@ -4,9 +4,10 @@ IPL Pricing Case in Business Analytics book by Dinesh Kumar
 We have been provided with list of 130 cricket players stats data who have participated in IPL in the past years. Every player’s name along with their team, number of wickets taken, number of runs scored, number of sixes hit, batting strike rate, bowling average, captaincy and Sold Price has been provided.
 
 We need to understand the how the Sold Price of a player is affected based on the  variables like Sixers, Batting Strike rate and other metrics.
+Solving using Python and R
 
-Dataset - IPL Player Pricing.xls
-Python Code - IPL_python.py
+Dataset - IPL Player Pricing.xls , 
+Python Code - IPL_python.py , 
 R Code - IPL_Pricing_R_Case.R
 
 Solving below questions - 
