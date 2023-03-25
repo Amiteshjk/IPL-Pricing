@@ -5,6 +5,10 @@ We have been provided with list of 130 cricket players stats data who have parti
 
 We need to understand the how the Sold Price of a player is affected based on the  variables like Sixers, Batting Strike rate and other metrics.
 
+Dataset - IPL Player Pricing.xls
+Python Code - IPL_python.py
+R Code - IPL_Pricing_R_Case.R
+
 Solving below questions - 
 
 Question 1 - Develop a simple linear regression model using sold price as response variable and the batting strike rate as explanatory variable. Comment on the model, is there an evidence to suggest that the batting strike rate has a statistically significant relationship with sold price.
